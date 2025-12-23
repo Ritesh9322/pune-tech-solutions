@@ -14,8 +14,35 @@ import {
   Users,
   Target,
   Award,
-  ArrowRight
+  ArrowRight,
+  Briefcase,
+  FolderCheck,
+  UserCheck,
+  Handshake
 } from 'lucide-react';
+
+const stats = [
+  {
+    icon: <Briefcase className="w-7 h-7" />,
+    number: '1000+',
+    label: 'Clients Served Across Industries',
+  },
+  {
+    icon: <FolderCheck className="w-7 h-7" />,
+    number: '500+',
+    label: 'Projects Successfully Delivered',
+  },
+  {
+    icon: <UserCheck className="w-7 h-7" />,
+    number: '1000+',
+    label: 'Professionals Supported Through Internships & Full-Time Opportunities',
+  },
+  {
+    icon: <Handshake className="w-7 h-7" />,
+    number: 'Growing',
+    label: 'Network of Long-Term Clients and Industry Partners',
+  },
+];
 
 const services = [
   {
@@ -137,6 +164,34 @@ const Index = () => {
                 style={{ animationDelay: `${index * 0.1}s` }}
               >
                 <ServiceCard {...service} />
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Impact Stats Section */}
+      <section className="section-padding bg-background">
+        <div className="container-custom">
+          <SectionHeading
+            badge="Our Impact"
+            title="Trusted by Clients & Professionals"
+          />
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
+            {stats.map((stat, index) => (
+              <div 
+                key={stat.label}
+                className="text-center p-6 rounded-xl bg-card border border-border"
+              >
+                <div className="w-14 h-14 rounded-full bg-primary/10 flex items-center justify-center text-primary mx-auto mb-4">
+                  {stat.icon}
+                </div>
+                <div className="font-display text-3xl md:text-4xl font-bold text-foreground mb-2">
+                  {stat.number}
+                </div>
+                <p className="text-muted-foreground text-sm leading-relaxed">
+                  {stat.label}
+                </p>
               </div>
             ))}
           </div>
