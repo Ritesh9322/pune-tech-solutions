@@ -276,7 +276,7 @@ const Careers = () => {
             </div>
 
             <div>
-              <Label>Tell Us About Yourself</Label>
+              <Label>Tell Us About Yourself, Paste Your Resume Drive Link*</Label>
               <Textarea
                 rows={5}
                 value={formData.message}

@@ -1,16 +1,17 @@
-import { useState } from 'react';
-import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, ChevronDown } from 'lucide-react';
-import { Button } from '@/components/ui/button';
-import { cn } from '@/lib/utils';
+import { Link, useLocation } from "react-router-dom";
+import { Menu, X } from "lucide-react";
+
+import { Button } from "@/components/ui/button";
+import { cn } from "@/lib/utils";
+import { useState } from "react";
 
 const navigation = [
-  { name: 'Home', href: '/' },
-  { name: 'About Us', href: '/about' },
-  { name: 'Services', href: '/services' },
-  { name: 'Internships', href: '/internships' },
-  { name: 'Careers', href: '/careers' },
-  { name: 'Contact', href: '/contact' },
+  { name: "Home", href: "/" },
+  { name: "About Us", href: "/about" },
+  { name: "Services", href: "/services" },
+  { name: "Internships", href: "/internships" },
+  { name: "Careers", href: "/careers" },
+  { name: "Contact", href: "/contact" },
 ];
 
 const Header = () => {
@@ -20,15 +21,15 @@ const Header = () => {
   return (
     <header className="sticky top-0 z-50 bg-card/95 backdrop-blur-md border-b border-border">
       <nav className="container-custom" aria-label="Main navigation">
-        <div className="flex h-16 items-center justify-between">
-          {/* Logo */}
-          <Link to="/" className="flex items-center gap-2">
-            <div className="w-10 h-10 rounded-lg bg-primary flex items-center justify-center">
-              <span className="text-primary-foreground font-display font-bold text-lg">N</span>
-            </div>
-            <span className="font-display font-bold text-xl text-foreground">
-              NexaTech<span className="text-primary">.</span>
-            </span>
+        <div className="flex h-20 items-center justify-between">
+          
+          {/* Logo (Logo Only, Bigger, Clickable) */}
+          <Link to="/" className="flex items-center">
+            <img
+              src="/nexatech-logo.png"
+              alt="NexaTech Solutions Logo"
+              className="h-34 md:h-36 w-auto object-contain"
+            />
           </Link>
 
           {/* Desktop Navigation */}
@@ -56,7 +57,7 @@ const Header = () => {
             </Button>
           </div>
 
-          {/* Mobile menu button */}
+          {/* Mobile Menu Button */}
           <button
             type="button"
             className="lg:hidden p-2 text-muted-foreground hover:text-foreground"
@@ -64,7 +65,11 @@ const Header = () => {
             aria-expanded={mobileMenuOpen}
             aria-label="Toggle navigation menu"
           >
-            {mobileMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
+            {mobileMenuOpen ? (
+              <X className="h-6 w-6" />
+            ) : (
+              <Menu className="h-6 w-6" />
+            )}
           </button>
         </div>
 
@@ -87,9 +92,13 @@ const Header = () => {
                   {item.name}
                 </Link>
               ))}
+
               <div className="px-4 pt-4 border-t border-border mt-2">
                 <Button variant="hero" className="w-full" asChild>
-                  <Link to="/contact" onClick={() => setMobileMenuOpen(false)}>
+                  <Link
+                    to="/contact"
+                    onClick={() => setMobileMenuOpen(false)}
+                  >
                     Get In Touch
                   </Link>
                 </Button>

@@ -1,25 +1,26 @@
-import { Link } from 'react-router-dom';
+import {
+  ArrowRight,
+  Award,
+  Briefcase,
+  CheckCircle2,
+  Cloud,
+  Code,
+  Database,
+  FolderCheck,
+  Globe,
+  Handshake,
+  Lightbulb,
+  Shield,
+  Target,
+  UserCheck,
+  Users
+} from 'lucide-react';
+
 import { Button } from '@/components/ui/button';
 import Layout from '@/components/layout/Layout';
+import { Link } from 'react-router-dom';
 import SectionHeading from '@/components/common/SectionHeading';
 import ServiceCard from '@/components/common/ServiceCard';
-import { 
-  Globe, 
-  Code, 
-  Cloud, 
-  Database, 
-  Shield, 
-  Lightbulb,
-  CheckCircle2,
-  Users,
-  Target,
-  Award,
-  ArrowRight,
-  Briefcase,
-  FolderCheck,
-  UserCheck,
-  Handshake
-} from 'lucide-react';
 
 const stats = [
   {

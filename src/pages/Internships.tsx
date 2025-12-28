@@ -1,22 +1,23 @@
-import Layout from '@/components/layout/Layout';
-import SectionHeading from '@/components/common/SectionHeading';
-import { Button } from '@/components/ui/button';
-import { Link } from 'react-router-dom';
-import { 
-  Globe,
+import {
+  ArrowRight,
+  Award,
+  Brain,
+  CheckCircle2,
+  Clock,
+  Cloud,
   Code,
   Database,
-  Cloud,
-  Shield,
-  Brain,
-  Clock,
-  MapPin,
+  Globe,
   GraduationCap,
-  Award,
-  Users,
-  CheckCircle2,
-  ArrowRight
+  MapPin,
+  Shield,
+  Users
 } from 'lucide-react';
+
+import { Button } from '@/components/ui/button';
+import Layout from '@/components/layout/Layout';
+import { Link } from 'react-router-dom';
+import SectionHeading from '@/components/common/SectionHeading';
 
 const domains = [
   { icon: <Globe className="w-6 h-6" />, title: 'Web Development' },
@@ -35,7 +36,7 @@ const modes = [
 ];
 
 const structure = [
-  { title: 'Duration', description: '4, 6, or 8 weeks based on program' },
+  { title: 'Duration', description: '1, 3, or 6 months based on program' },
   { title: 'Assignments', description: 'Real project-based work' },
   { title: 'Learning', description: 'Hands-on, practical approach' },
   { title: 'Evaluation', description: 'Technical assessment & feedback' },
@@ -45,7 +46,7 @@ const benefits = [
   'Internship completion certificate',
   'Real project experience',
   'Portfolio-ready work samples',
-  'Technical mentorship',
+  'Full-time job consideration',
   'Industry exposure',
   'Networking opportunities',
 ];
