@@ -1,12 +1,13 @@
-import { useState } from 'react';
-import Layout from '@/components/layout/Layout';
-import SectionHeading from '@/components/common/SectionHeading';
+import { Clock, Mail, MapPin } from 'lucide-react';
+
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
+import Layout from '@/components/layout/Layout';
+import SectionHeading from '@/components/common/SectionHeading';
 import { Textarea } from '@/components/ui/textarea';
+import { useState } from 'react';
 import { useToast } from '@/hooks/use-toast';
-import { Mail, MapPin, Clock } from 'lucide-react';
 
 const Contact = () => {
   const { toast } = useToast();
@@ -80,9 +81,9 @@ const Contact = () => {
                       Office Address
                     </h3>
                     <p className="text-muted-foreground">
-                      402, Near Murkute Garden,<br />
-                      Baner, Pune,<br />
-                      Maharashtra – 411069,<br />
+                      1, 5th, 'A' Block, KHB Colony 5th Block,<br />
+                      Koramangala, Bengaluru,<br />
+                      Karnataka 560095,<br />
                       India
                     </p>
                   </div>
@@ -97,12 +98,12 @@ const Contact = () => {
                       Email Us
                     </h3>
                     <p className="text-muted-foreground">
-                      <a href="mailto:contact@nexatech.in" className="hover:text-primary transition-colors">
-                        contact@nexatech.in
+                      <a href="mailto:careers@nexatechitsolutions.in" className="hover:text-primary transition-colors">
+                        careers@nexatechitsolutions.in
                       </a>
                       <br />
-                      <a href="mailto:info@nexatech.in" className="hover:text-primary transition-colors">
-                        info@nexatech.in
+                      <a href="mailto:contact@nexatechitsolutions.in" className="hover:text-primary transition-colors">
+                        contact@nexatechitsolutions.in
                       </a>
                     </p>
                   </div>
@@ -117,8 +118,7 @@ const Contact = () => {
                       Business Hours
                     </h3>
                     <p className="text-muted-foreground">
-                      Monday – Friday: 10:00 AM – 7:00 PM IST<br />
-                      Saturday: 10:00 AM – 2:00 PM IST
+                      Monday – Friday: 9:00 AM – 6:00 PM IST<br />
                     </p>
                   </div>
                 </div>

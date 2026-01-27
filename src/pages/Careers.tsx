@@ -26,27 +26,27 @@ import { useToast } from '@/hooks/use-toast';
 
 const openPositions = [
   {
-    title: 'Software Developer Intern',
-    type: 'Internship',
-    location: 'Remote / Hybrid',
+    title: 'Software Developer',
+    type: 'Full-Time job role',
+    location: 'Bengaluru',
     description: 'Work on real software projects and learn industry best practices.',
   },
   {
     title: 'Web Developer Intern',
     type: 'Internship',
-    location: 'Remote / Hybrid',
+    location: 'Bengaluru',
     description: 'Build modern web applications using React, Node.js, and related technologies.',
   },
   {
     title: 'Python Developer Intern',
-    type: 'Internship',
+    type: 'Bengaluru',
     location: 'Remote / Hybrid',
     description: 'Develop Python applications and automation scripts for various projects.',
   },
   {
-    title: 'Data Analyst Intern',
-    type: 'Internship',
-    location: 'Remote / Hybrid',
+    title: 'Data Analyst',
+    type: 'Full-Time job role',
+    location: 'Bengaluru',
     description: 'Analyze data and create insights using modern analytics tools.',
   },
   {

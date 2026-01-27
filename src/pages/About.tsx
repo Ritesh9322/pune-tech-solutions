@@ -1,6 +1,7 @@
+import { Eye, Heart, Lightbulb, Target, Users, Zap } from 'lucide-react';
+
 import Layout from '@/components/layout/Layout';
 import SectionHeading from '@/components/common/SectionHeading';
-import { Target, Eye, Lightbulb, Heart, Users, Zap } from 'lucide-react';
 
 const values = [
   {
@@ -60,7 +61,7 @@ const About = () => {
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
                   NexaTech Solutions is an emerging IT services and consulting company 
-                  headquartered in Pune, Maharashtra. We specialize in delivering software 
+                  headquartered in Bengaluru. We specialize in delivering software 
                   development, cloud solutions, and digital transformation services to 
                   startups and growing businesses.
                 </p>
