@@ -11,7 +11,7 @@ const Refund = () => {
               Refund Policy
             </h1>
             <p className="text-primary-foreground/80">
-              Last updated: December 2024
+              Last updated: December 2025
             </p>
           </div>
         </div>
@@ -26,18 +26,18 @@ const Refund = () => {
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">1. Overview</h2>
                 <p>
                   This Refund Policy outlines the terms and conditions for refunds on services 
-                  and programs offered by NexaTech Solutions. We strive to ensure customer 
+                  and programs offered by NexaTech IT Solutions. We strive to ensure customer 
                   satisfaction while maintaining fair business practices.
                 </p>
               </section>
 
               <section>
-                <h2 className="font-display text-2xl font-bold text-foreground mb-4">2. Internship & Training Programs</h2>
-                <h3 className="font-display text-xl font-semibold text-foreground mb-3">2.1 Cancellation Before Program Start</h3>
+                <h2 className="font-display text-2xl font-bold text-foreground mb-4">2. Services and Consulting</h2>
+                <h3 className="font-display text-xl font-semibold text-foreground mb-3">2.1 Cancellation Before Service Start</h3>
                 <ul className="list-disc pl-6 space-y-2 mt-4">
-                  <li><strong>7+ days before start date:</strong> Full refund minus processing fees (if applicable)</li>
-                  <li><strong>3-7 days before start date:</strong> 75% refund of the program fee</li>
-                  <li><strong>Less than 3 days before start date:</strong> 50% refund of the program fee</li>
+                  <li><strong>7+ days before service date:</strong> Full refund minus processing fees (if applicable)</li>
+                  <li><strong>3-7 days before start date:</strong> 75% refund of the consulting fee</li>
+                  <li><strong>Less than 3 days before start date:</strong> 50% refund of the service or consulting fee</li>
                 </ul>
 
                 <h3 className="font-display text-xl font-semibold text-foreground mb-3 mt-6">2.2 After Program Commencement</h3>
@@ -61,10 +61,10 @@ const Refund = () => {
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">4. Non-Refundable Items</h2>
                 <p>The following are generally non-refundable:</p>
                 <ul className="list-disc pl-6 space-y-2 mt-4">
-                  <li>Registration and processing fees</li>
+                  <li>Registration and  Service processing fees</li>
                   <li>Third-party costs (software licenses, cloud services, etc.)</li>
                   <li>Customized materials and resources provided</li>
-                  <li>Programs completed beyond 50% of the duration</li>
+                  <li>Service delivery completed beyond 50% of the duration</li>
                 </ul>
               </section>
 
@@ -72,7 +72,7 @@ const Refund = () => {
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">5. Refund Process</h2>
                 <p>To request a refund:</p>
                 <ol className="list-decimal pl-6 space-y-2 mt-4">
-                  <li>Submit a written request to contact@nexatech.in with your details and reason for refund</li>
+                  <li>Submit a written request to contact@nexatechitsolutions.in with your details and reason for refund</li>
                   <li>Include your registration/invoice number and payment details</li>
                   <li>Our team will review your request within 5 business days</li>
                   <li>Approved refunds will be processed within 7-14 business days</li>
@@ -97,7 +97,7 @@ const Refund = () => {
                 </p>
                 <ul className="list-disc pl-6 space-y-2 mt-4">
                   <li>A full refund of all payments made will be provided</li>
-                  <li>Alternative program dates may be offered where applicable</li>
+                  <li>Alternative Service dates may be offered where applicable</li>
                   <li>Refunds will be processed within 7 business days of cancellation announcement</li>
                 </ul>
               </section>
@@ -106,7 +106,7 @@ const Refund = () => {
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">8. Disputes</h2>
                 <p>
                   If you have any concerns about our refund decision, please escalate the 
-                  matter to info@nexatech.in. We are committed to resolving disputes fairly 
+                  matter to contact@nexatechitsolutions.in. We are committed to resolving disputes fairly 
                   and promptly.
                 </p>
               </section>
@@ -117,10 +117,10 @@ const Refund = () => {
                   For refund-related inquiries, please contact:
                 </p>
                 <p className="mt-4">
-                  <strong>NexaTech Solutions</strong><br />
-                  402, Near Murkute Garden,<br />
-                  Baner, Pune, Maharashtra – 411069, India<br />
-                  Email: contact@nexatech.in
+                  <strong>NexaTech IT Solutions Private Limited</strong><br />
+                  65,Parshuram Nagar,<br />
+                  Sayajiganj, Vadodara, Gujarat 390020 India<br />
+                  Email: contact@nexatechitsolutions.in
                 </p>
               </section>
             </div>

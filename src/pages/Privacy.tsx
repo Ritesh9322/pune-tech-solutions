@@ -11,7 +11,7 @@ const Privacy = () => {
               Privacy Policy
             </h1>
             <p className="text-primary-foreground/80">
-              Last updated: December 2024
+              Last updated: December 2025
             </p>
           </div>
         </div>
@@ -106,10 +106,10 @@ const Privacy = () => {
                   If you have any questions about this Privacy Policy, please contact us at:
                 </p>
                 <p className="mt-4">
-                  <strong>NexaTech Solutions</strong><br />
-                  402, Near Murkute Garden,<br />
-                  Baner, Pune, Maharashtra – 411069, India<br />
-                  Email: contact@nexatech.in
+                  <strong>NexaTech IT Solutions Private Limited</strong><br />
+                  65,Parshuram Nagar,<br />
+                  Sayajiganj, Vadodara, Gujarat 390020 , India<br />
+                  Email: contact@nexatechitsolutions.in
                 </p>
               </section>
             </div>

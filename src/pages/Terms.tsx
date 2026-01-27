@@ -35,19 +35,18 @@ const Terms = () => {
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">2. Services</h2>
                 <p>
                   NexaTech Solutions provides IT consulting, software development, and related 
-                  technology services. We also offer internship and training programs for 
-                  educational purposes.
+                  technology services. We also offer paid internships and full time employment.
                 </p>
               </section>
 
               <section>
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">3. Internship Programs</h2>
-                <p>Our internship programs are designed for educational and skill-development purposes:</p>
+                <p>Our internship programs are designed for career support and career start:</p>
                 <ul className="list-disc pl-6 space-y-2 mt-4">
-                  <li>Programs are offered on a paid basis with clearly defined fees</li>
-                  <li>Completion of a program does not guarantee employment with NexaTech Solutions or any other organization</li>
-                  <li>High-performing participants may be considered for opportunities based on performance and business needs</li>
-                  <li>Certificates are issued upon successful completion of program requirements</li>
+                  <li>Programs are offered on a paid basis with Stipend or Commission or revenue share</li>
+                  <li>Completion of a Internship will converted to Full-Time employment with NexaTech Solutions or any other organization</li>
+                  <li>High-performing participants Will be considered for opportunities based on performance and business needs</li>
+                  <li>Certificates are issued upon successful completion of Internship requirements</li>
                 </ul>
               </section>
 
@@ -77,7 +76,7 @@ const Terms = () => {
                 <p>For paid services and programs:</p>
                 <ul className="list-disc pl-6 space-y-2 mt-4">
                   <li>All fees must be paid in advance unless otherwise agreed</li>
-                  <li>Payments are processed through secure payment gateways</li>
+                  <li>Payments and Salary are processed through secure payment gateways or directly from a client to your bank</li>
                   <li>Refunds are subject to our Refund Policy</li>
                   <li>Prices are subject to change with prior notice</li>
                 </ul>
@@ -126,10 +125,10 @@ const Terms = () => {
                   For questions about these Terms and Conditions, please contact us at:
                 </p>
                 <p className="mt-4">
-                  <strong>NexaTech Solutions</strong><br />
-                  402, Near Murkute Garden,<br />
-                  Baner, Pune, Maharashtra – 411069, India<br />
-                  Email: contact@nexatech.in
+                  <strong>NexaTech IT Solutions Private Limited</strong><br />
+                  65,Parshuram Nagar,<br />
+                  Sayajiganj, Vadodara,Gujarat 390020 India<br />
+                  Email: contact@nexatechitsolutions.in
                 </p>
               </section>
             </div>
