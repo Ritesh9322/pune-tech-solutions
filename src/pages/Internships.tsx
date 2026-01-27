@@ -32,14 +32,14 @@ const domains = [
 const modes = [
   { icon: <MapPin className="w-5 h-5" />, title: 'Remote', description: 'Work from anywhere' },
   { icon: <Users className="w-5 h-5" />, title: 'Hybrid', description: 'Flexible arrangement' },
-  { icon: <MapPin className="w-5 h-5" />, title: 'In-Office', description: 'Pune location' },
+  { icon: <MapPin className="w-5 h-5" />, title: 'In-Office', description: 'Vadodara location' },
 ];
 
 const structure = [
-  { title: 'Duration', description: '1, 3, or 6 months based on program' },
+  { title: 'Duration', description: '3, 6, 12 or 16 months based on program' },
   { title: 'Assignments', description: 'Real project-based work' },
-  { title: 'Learning', description: 'Hands-on, practical approach' },
-  { title: 'Evaluation', description: 'Technical assessment & feedback' },
+  { title: 'Stipend', description: 'Stipend As Per Company Policy and your client acquisition' },
+  { title: 'Evaluation', description: 'Technical assessments and Full Time Job Role' },
 ];
 
 const benefits = [
@@ -47,7 +47,7 @@ const benefits = [
   'Real project experience',
   'Portfolio-ready work samples',
   'Full-time job consideration',
-  'Industry exposure',
+  'Stipend',
   'Networking opportunities',
 ];
 

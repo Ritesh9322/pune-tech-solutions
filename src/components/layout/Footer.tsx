@@ -49,11 +49,11 @@ const Footer = () => {
               <div className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-primary mt-0.5 flex-shrink-0" />
                 <span className="text-sm text-primary-foreground/70">
-                  1, 5th, 'A' Block, KHB Colony,5th 
+                  65,Parshuram Nagar, 
                   <br />
-                  Block, Koramangala, Bengaluru, 
+                  Sayajiganj, Vadodara, 
                   <br />
-                  Karnataka 560095
+                  Gujarat 390020
                 </span>
               </div>
 

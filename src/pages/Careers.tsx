@@ -28,25 +28,25 @@ const openPositions = [
   {
     title: 'Software Developer',
     type: 'Full-Time job role',
-    location: 'Bengaluru',
+    location: 'Vadodara',
     description: 'Work on real software projects and learn industry best practices.',
   },
   {
     title: 'Web Developer Intern',
     type: 'Internship',
-    location: 'Bengaluru',
+    location: 'Remote',
     description: 'Build modern web applications using React, Node.js, and related technologies.',
   },
   {
-    title: 'Python Developer Intern',
-    type: 'Bengaluru',
+    title: 'Python Developer',
+    type: 'Full-Time job role',
     location: 'Remote / Hybrid',
     description: 'Develop Python applications and automation scripts for various projects.',
   },
   {
     title: 'Data Analyst',
     type: 'Full-Time job role',
-    location: 'Bengaluru',
+    location: 'Vadodara',
     description: 'Analyze data and create insights using modern analytics tools.',
   },
   {

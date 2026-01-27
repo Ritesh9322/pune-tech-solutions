@@ -121,7 +121,7 @@ const Index = () => {
                   <Link to="/services">Our Services</Link>
                 </Button>
                 <Button variant="hero-outline" size="xl" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10" asChild>
-                  <Link to="/internships">Careers & Internships</Link>
+                  <Link to="/internships">Careers</Link>
                 </Button>
               </div>
             </div>
@@ -140,7 +140,7 @@ const Index = () => {
               About NexaTech
             </span>
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
-              NexaTech Solutions is a technology-driven IT solutions firm based in Bengaluru, Karnataka. 
+              NexaTech Solutions is a technology-driven IT solutions firm based in Gujarat, India. 
               We specialize in delivering high-quality software development, cloud solutions, and 
               digital services to startups and growing businesses. Our focus is on building practical, 
               scalable solutions that drive real business value.

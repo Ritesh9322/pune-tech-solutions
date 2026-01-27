@@ -61,7 +61,7 @@ const About = () => {
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
                   NexaTech Solutions is an emerging IT services and consulting company 
-                  headquartered in Bengaluru. We specialize in delivering software 
+                  headquartered in Ahmedabad & Vadodara. We specialize in delivering software 
                   development, cloud solutions, and digital transformation services to 
                   startups and growing businesses.
                 </p>
