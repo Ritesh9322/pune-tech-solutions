@@ -25,7 +25,7 @@ const Terms = () => {
               <section>
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">1. Acceptance of Terms</h2>
                 <p>
-                  By accessing and using the NexaTech Solutions website and services, you accept 
+                  By accessing and using the NexaTech IT Solutions website and services, you accept 
                   and agree to be bound by these Terms and Conditions. If you do not agree to 
                   these terms, please do not use our services.
                 </p>
@@ -35,17 +35,16 @@ const Terms = () => {
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">2. Services</h2>
                 <p>
                   NexaTech Solutions provides IT consulting, software development, and related 
-                  technology services. We also offer internship and training programs for 
-                  educational purposes.
+                  technology services.
                 </p>
               </section>
 
               <section>
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">3. Internship Programs</h2>
-                <p>Our internship programs are designed for educational and skill-development purposes:</p>
+                <p>Our internship programs are designed for career support and career start:</p>
                 <ul className="list-disc pl-6 space-y-2 mt-4">
-                  <li>Programs are offered on a paid basis with clearly defined fees</li>
-                  <li>Completion of a program does not guarantee employment with NexaTech Solutions or any other organization</li>
+                  <li>Programs are offered on a paid basis with Stipend or Commission or revenue share</li>
+                  <li>Completion of a Internship will converted to Full-Time employment with NexaTech IT Solutions or any other organization</li>
                   <li>High-performing participants may be considered for opportunities based on performance and business needs</li>
                   <li>Certificates are issued upon successful completion of program requirements</li>
                 </ul>
@@ -66,7 +65,7 @@ const Terms = () => {
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">5. Intellectual Property</h2>
                 <p>
                   All content on this website, including text, graphics, logos, and software, 
-                  is the property of NexaTech Solutions and is protected by intellectual property 
+                  is the property of NexaTech IT Solutions and is protected by intellectual property 
                   laws. You may not reproduce, distribute, or create derivative works without 
                   our express written permission.
                 </p>
@@ -74,10 +73,10 @@ const Terms = () => {
 
               <section>
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">6. Payment Terms</h2>
-                <p>For paid services and programs:</p>
+                <p>For paid services and consulting</p>
                 <ul className="list-disc pl-6 space-y-2 mt-4">
                   <li>All fees must be paid in advance unless otherwise agreed</li>
-                  <li>Payments are processed through secure payment gateways</li>
+                  <li>Payments and Salary are processed through secure payment gateways or directly from a client to your bank</li>
                   <li>Refunds are subject to our Refund Policy</li>
                   <li>Prices are subject to change with prior notice</li>
                 </ul>
@@ -86,7 +85,7 @@ const Terms = () => {
               <section>
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">7. Limitation of Liability</h2>
                 <p>
-                  NexaTech Solutions shall not be liable for any indirect, incidental, special, 
+                  NexaTech IT Solutions shall not be liable for any indirect, incidental, special, 
                   or consequential damages arising from your use of our services. Our total 
                   liability shall not exceed the amount paid by you for the specific service 
                   in question.
@@ -97,8 +96,8 @@ const Terms = () => {
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">8. Disclaimer</h2>
                 <p>
                   Our services are provided "as is" without warranties of any kind, either 
-                  express or implied. We do not guarantee specific outcomes from our training 
-                  programs or consulting services.
+                  express or implied. We do not guarantee specific outcomes from our  
+                  consulting services.
                 </p>
               </section>
 
@@ -107,7 +106,7 @@ const Terms = () => {
                 <p>
                   These Terms and Conditions shall be governed by and construed in accordance 
                   with the laws of India. Any disputes shall be subject to the exclusive 
-                  jurisdiction of the courts in Pune, Maharashtra.
+                  jurisdiction of the courts in Bengaluru, Karnataka.
                 </p>
               </section>
 
@@ -126,10 +125,10 @@ const Terms = () => {
                   For questions about these Terms and Conditions, please contact us at:
                 </p>
                 <p className="mt-4">
-                  <strong>NexaTech Solutions</strong><br />
-                  402, Near Murkute Garden,<br />
-                  Baner, Pune, Maharashtra – 411069, India<br />
-                  Email: contact@nexatech.in
+                  <strong>NexaTech IT Solutions Private Limited</strong><br />
+                  5th, 'A' Block, KHB Colony,<br />
+                  Koramangala, Bengaluru, Karnataka 560095 India<br />
+                  Email: contact@nexatechitsolutions.in
                 </p>
               </section>
             </div>

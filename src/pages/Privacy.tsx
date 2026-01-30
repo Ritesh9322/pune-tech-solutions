@@ -11,7 +11,7 @@ const Privacy = () => {
               Privacy Policy
             </h1>
             <p className="text-primary-foreground/80">
-              Last updated: December 2024
+              Last updated: December 2025
             </p>
           </div>
         </div>
@@ -25,7 +25,7 @@ const Privacy = () => {
               <section>
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">1. Introduction</h2>
                 <p>
-                  NexaTech Solutions ("we," "our," or "us") is committed to protecting your privacy. 
+                  NexaTech IT Solutions ("we," "our," or "us") is committed to protecting your privacy. 
                   This Privacy Policy explains how we collect, use, disclose, and safeguard your 
                   information when you visit our website or use our services.
                 </p>
@@ -106,10 +106,10 @@ const Privacy = () => {
                   If you have any questions about this Privacy Policy, please contact us at:
                 </p>
                 <p className="mt-4">
-                  <strong>NexaTech Solutions</strong><br />
-                  402, Near Murkute Garden,<br />
-                  Baner, Pune, Maharashtra – 411069, India<br />
-                  Email: contact@nexatech.in
+                  <strong>NexaTech IT Solutions Private Limited</strong><br />
+                  5th, 'A' Block, KHB Colony,<br />
+                  Koramangala, Bengaluru,  Karnataka 560095 India<br />
+                  Email: contact@nexatechitsolutions.in
                 </p>
               </section>
             </div>
