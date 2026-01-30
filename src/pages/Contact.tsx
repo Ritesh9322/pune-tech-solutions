@@ -82,7 +82,7 @@ const Contact = () => {
                     </h3>
                     <p className="text-muted-foreground">
                       5th, 'A' Block, KHB Colony,<br />
-                      Koramangala, Bengaluru, <br />
+                      Koramangala, Bengaluru <br />
                       Karnataka 560095<br />
                       India
                     </p>

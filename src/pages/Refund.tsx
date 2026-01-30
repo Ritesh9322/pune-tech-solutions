@@ -119,7 +119,7 @@ const Refund = () => {
                 <p className="mt-4">
                   <strong>NexaTech IT Solutions Private Limited</strong><br />
                   5th, 'A' Block, KHB Colony,<br />
-                  Koramangala, Bengaluru, Karnataka 560095 India<br />
+                  Koramangala, Bengaluru, Karnataka, 560095 India<br />
                   Email: contact@nexatechit.in
                 </p>
               </section>

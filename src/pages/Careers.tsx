@@ -40,7 +40,7 @@ const openPositions = [
   {
     title: 'Python Developer',
     type: 'Full-Time job role',
-    location: 'Remote / Hybrid',
+    location: 'Remote',
     description: 'Develop Python applications and automation scripts for various projects.',
   },
   {

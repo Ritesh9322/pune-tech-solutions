@@ -77,7 +77,7 @@ const Internships = () => {
         <div className="container-custom">
           <div className="max-w-3xl mx-auto text-center">
             <p className="text-lg text-muted-foreground leading-relaxed">
-              NexaTech Solutions offers industry-oriented internship programs designed to help 
+              NexaTech IT Solutions offers industry-oriented internship programs designed to help 
               students and early-career professionals gain practical, real-world exposure to 
               software development and IT services. Our programs bridge the gap between academic 
               learning and industry requirements.

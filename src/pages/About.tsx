@@ -56,11 +56,11 @@ const About = () => {
                 Who We Are
               </span>
               <h2 className="font-display text-3xl md:text-4xl font-bold text-foreground mb-6">
-                An Emerging IT Services Company Based in Pune
+                An Emerging IT Services Company Based in Bengaluru.
               </h2>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  NexaTech Solutions is an emerging IT services and consulting company 
+                  NexaTech IT Solutions is an emerging IT services and consulting company 
                   headquartered in Bengaluru, We specialize in delivering software 
                   development, cloud solutions, and digital transformation services to 
                   startups and growing businesses.

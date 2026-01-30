@@ -35,11 +35,7 @@ const Terms = () => {
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">2. Services</h2>
                 <p>
                   NexaTech Solutions provides IT consulting, software development, and related 
-<<<<<<< HEAD
                   technology services.
-=======
-                  technology services. We also offer paid internships and full time employment.
->>>>>>> 1a6a714701c3f778ca51e5b31954e373ab86275e
                 </p>
               </section>
 
@@ -48,15 +44,9 @@ const Terms = () => {
                 <p>Our internship programs are designed for career support and career start:</p>
                 <ul className="list-disc pl-6 space-y-2 mt-4">
                   <li>Programs are offered on a paid basis with Stipend or Commission or revenue share</li>
-<<<<<<< HEAD
                   <li>Completion of a Internship will converted to Full-Time employment with NexaTech IT Solutions or any other organization</li>
                   <li>High-performing participants may be considered for opportunities based on performance and business needs</li>
                   <li>Certificates are issued upon successful completion of program requirements</li>
-=======
-                  <li>Completion of a Internship will converted to Full-Time employment with NexaTech Solutions or any other organization</li>
-                  <li>High-performing participants Will be considered for opportunities based on performance and business needs</li>
-                  <li>Certificates are issued upon successful completion of Internship requirements</li>
->>>>>>> 1a6a714701c3f778ca51e5b31954e373ab86275e
                 </ul>
               </section>
 
@@ -128,7 +118,6 @@ const Terms = () => {
                   of our services constitutes acceptance of the updated terms.
                 </p>
               </section>
-
               <section>
                 <h2 className="font-display text-2xl font-bold text-foreground mb-4">11. Contact Information</h2>
                 <p>
@@ -136,13 +125,8 @@ const Terms = () => {
                 </p>
                 <p className="mt-4">
                   <strong>NexaTech IT Solutions Private Limited</strong><br />
-<<<<<<< HEAD
                   5th, 'A' Block, KHB Colony,<br />
                   Koramangala, Bengaluru, Karnataka 560095 India<br />
-=======
-                  65,Parshuram Nagar,<br />
-                  Sayajiganj, Vadodara,Gujarat 390020 India<br />
->>>>>>> 1a6a714701c3f778ca51e5b31954e373ab86275e
                   Email: contact@nexatechitsolutions.in
                 </p>
               </section>
