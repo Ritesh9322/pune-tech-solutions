@@ -106,7 +106,7 @@ const Terms = () => {
                 <p>
                   These Terms and Conditions shall be governed by and construed in accordance 
                   with the laws of India. Any disputes shall be subject to the exclusive 
-                  jurisdiction of the courts in Bengaluru, Karnataka.
+                  jurisdiction of the courts in Vadodara, India.
                 </p>
               </section>
 
@@ -125,8 +125,8 @@ const Terms = () => {
                 </p>
                 <p className="mt-4">
                   <strong>NexaTech IT Solutions Private Limited</strong><br />
-                  5th, 'A' Block, KHB Colony,<br />
-                  Koramangala, Bengaluru, Karnataka 560095 India<br />
+                  65, Parshuram Nagar,<br />
+                  Sayajiganj, Vadodara Gujarat 390020 India<br />
                   Email: contact@nexatechitsolutions.in
                 </p>
               </section>

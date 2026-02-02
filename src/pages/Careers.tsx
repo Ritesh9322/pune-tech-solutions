@@ -28,7 +28,7 @@ const openPositions = [
   {
     title: 'Software Developer',
     type: 'Full-Time job role',
-    location: 'Bengaluru',
+    location: 'Vadodara',
     description: 'Work on real software projects and learn industry best practices.',
   },
   {
@@ -46,7 +46,7 @@ const openPositions = [
   {
     title: 'Data Analyst',
     type: 'Full-Time job role',
-    location: 'Bengaluru',
+    location: 'Vadodara',
     description: 'Analyze data and create insights using modern analytics tools.',
   },
   {
@@ -148,7 +148,7 @@ const Careers = () => {
             Join Our Team
           </h1>
           <p className="text-lg md:text-xl text-primary-foreground/80">
-            Build your career with a growing IT solutions company in Bengaluru.
+            Build your career with a growing IT solutions company in Vadodara, Gujarat.
           </p>
         </div>
       </section>

@@ -140,7 +140,7 @@ const Index = () => {
               About NexaTech
             </span>
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
-              NexaTech Solutions is a technology-driven IT solutions firm based in Bengaluru. 
+              NexaTech Solutions is a technology-driven IT solutions firm based in Gujarat, India. 
               We specialize in delivering high-quality software development, cloud solutions, and 
               digital services to startups and growing businesses. Our focus is on building practical, 
               scalable solutions that drive real business value.

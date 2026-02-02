@@ -107,8 +107,8 @@ const Privacy = () => {
                 </p>
                 <p className="mt-4">
                   <strong>NexaTech IT Solutions Private Limited</strong><br />
-                  5th, 'A' Block, KHB Colony,<br />
-                  Koramangala, Bengaluru,  Karnataka, 560095 India<br />
+                  65, Parshuram Nagar,<br />
+                  Sayajiganj, Vadodara Gujarat 390020 India<br />
                   Email: contact@nexatechitsolutions.in
                 </p>
               </section>
