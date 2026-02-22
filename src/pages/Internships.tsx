@@ -32,7 +32,7 @@ const domains = [
 const modes = [
   { icon: <MapPin className="w-5 h-5" />, title: 'Remote', description: 'Work from anywhere' },
   { icon: <Users className="w-5 h-5" />, title: 'Hybrid', description: 'Flexible arrangement' },
-  { icon: <MapPin className="w-5 h-5" />, title: 'In-Office', description: 'Vadodara location' },
+  { icon: <MapPin className="w-5 h-5" />, title: 'In-Office', description: 'Bengaluru location' },
 ];
 
 const structure = [

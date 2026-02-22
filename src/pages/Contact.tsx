@@ -81,9 +81,9 @@ const Contact = () => {
                       Office Address
                     </h3>
                     <p className="text-muted-foreground">
-                      65, Parshuram Nagar,<br />
-                      Sayajiganj, Vadodara <br />
-                      Gujarat 390020<br />
+                      5th, 'A' Block, KHB Colony, 5th Block,<br />
+                      Koramangala, Bengaluru, <br />
+                       Karnataka 560095<br />
                       India
                     </p>
                   </div>
